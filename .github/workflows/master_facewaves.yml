@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'FaceWaves'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0BA27FEE41FF4C32851F4C5BD00E83B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_94219DBAC03A467AA96609E8598F656F }}
